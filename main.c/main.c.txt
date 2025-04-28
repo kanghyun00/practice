@@ -1,0 +1,6 @@
+#include<stdio.h> 
+ intmain()
+{
+  printf("Hello,EmbeddedWorld!'n");
+  return0;  
+}
